@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/colli/Desktop/LAB1/simulation/modelsim
+vCounter4
+Z1 !s110 1699593977
+!i10b 1
+!s100 J6FYQ8`VH6gQJiJ:JWc7h1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@`^ig3k]@LPj?nC51KChX0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1699415198
+8C:/Users/colli/Desktop/LAB1/Counter4.v
+FC:/Users/colli/Desktop/LAB1/Counter4.v
+!i122 0
+L0 1 15
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1699593977.000000
+!s107 C:/Users/colli/Desktop/LAB1/Counter4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/colli/Desktop/LAB1|C:/Users/colli/Desktop/LAB1/Counter4.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+C:/Users/colli/Desktop/LAB1
+Z9 tCvgOpt 0
+n@counter4
+vCounter4_tb
+R1
+!i10b 1
+!s100 Sn]Ja0=H3k_BVofYW82S10
+R2
+IjU9hKEkZ<E@@Yl4@@DPPo0
+R3
+R0
+R4
+8C:/Users/colli/Desktop/LAB1/Counter4_tb.v
+FC:/Users/colli/Desktop/LAB1/Counter4_tb.v
+!i122 1
+L0 2 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/colli/Desktop/LAB1/Counter4_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/colli/Desktop/LAB1|C:/Users/colli/Desktop/LAB1/Counter4_tb.v|
+!i113 1
+R7
+R8
+R9
+n@counter4_tb
